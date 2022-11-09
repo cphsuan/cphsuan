@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 Hi there, I'm Vivianne. 👋
 
-<a href="https://www.linkedin.com/in/viviannechao">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>   <a href="https://www.instagram.com/vivi.enjoylife/">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/viviannechao">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>   <a href="https://www.instagram.com/17.xuanne/">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
 
 
 
