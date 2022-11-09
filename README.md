@@ -24,7 +24,7 @@ Hi there, I'm Vivianne. 👋
 
 💪 Master of Information Management's Student in NTUST.
 
-🧑‍🎓 Bachelor of Statistics
+🧑‍🎓 Bachelor of Statistics in NCCU
 
 🌱 Experienced in data analyst. Learning ML/DL and back-end.
 
