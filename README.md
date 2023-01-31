@@ -18,15 +18,11 @@ Hi there, I'm Vivianne. 👋
 
 <a href="https://www.linkedin.com/in/viviannechao">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>   <a href="https://www.instagram.com/17.xuanne/">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
 
+💪 Master of  Information Management with Computer Graphics and Multimedia System in National Taiwan University of Science and Technology (NTUST).
 
+🧑‍🎓 Bachelor of Statistics in National ChengChi University (NCCU).
 
-
-
-💪 Master of Information Management's Student in NTUST.
-
-🧑‍🎓 Bachelor of Statistics in NCCU
-
-🌱 Experienced in data analyst. Learning ML/DL and back-end.
+🌱 Experienced in data analyst. Learning ML/DL and fornt-end.
 
 📫 How to reach me: cphsuan17@gmail.com
 
