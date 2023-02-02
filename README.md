@@ -22,7 +22,7 @@ Hi there, I'm Vivianne. 👋
 
 🧑‍🎓 Bachelor of Statistics in National ChengChi University (NCCU).
 
-🌱 Experienced in data analyst. Learning ML/DL and front-end.
+🌱 Experienced in data analyst. Learning ML/DL and Front-End.
 
 📫 How to reach me: cphsuan17@gmail.com
 
