@@ -20,9 +20,7 @@ Hi there, I'm Vivianne. 👋
 
 💪 Master of  Information Management with Computer Graphics and Multimedia System in National Taiwan University of Science and Technology (NTUST).
 
-🧑‍🎓 Bachelor of Statistics in National ChengChi University (NCCU).
-
-🌱 Experienced in data analyst. Learning ML/DL and Front-End.
+🌱 Experienced in Front-End.
 
 📫 How to reach me: cphsuan17@gmail.com
 
